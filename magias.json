@@ -1,0 +1,21 @@
+[
+  {
+    "nome": "Ataque Certeiro",
+    "nivel_escola": "adivinhação 0",
+    "tempo_conjuracao": "1 ação",
+    "alcance": "9 metros",
+    "componentes": "S",
+    "duracao": "até 1 rodada",
+    "descricao": "Você estende sua mão e aponta o dedo para um alvo no alcance. Sua magia garante a você uma breve intuição sobre as defesas do alvo. No seu próximo turno, você terá vantagem na primeira jogada de ataque contra o alvo, considerando que essa magia não tenha acabado."
+  },
+  {
+    "nome": "Amizade",
+    "nivel_escola": "encantamento 0",
+    "tempo_conjuracao": "1 ação",
+    "alcance": "pessoal",
+    "componentes": "S, M",
+    "duracao": "até 1 minuto",
+    "material": "uma pequena quantidade de maquiagem aplicada ao rosto durante a conjuração da magia.",
+    "descricao": "Pela duração, você terá vantagem em todos os testes de Carisma direcionados a uma criatura..."
+  }
+]
